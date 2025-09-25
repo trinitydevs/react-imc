@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     textTransform: 'uppercase',
     fontFamily: 'Arial',
-    color: 'rgba(235, 63, 143, 1)',
+    color: '#292727ff',
   },
 
   image: {
